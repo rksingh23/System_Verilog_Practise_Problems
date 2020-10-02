@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:\Users\kumar\Desktop\Verilog programs\System Verilog\2. Classes
+!i10d 8192
+!i10e 25
+!i10f 100
+vadder
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+I1BQEA;g3<1H2@8_=IlCe^1
+Z1 dC:\Users\kumar\Desktop\Verilog programs\System Verilog\3. Deep Copy_Shallow Copy
+w1580967290
+8adder.v
+Z2 Fadder.v
+L0 1
+Z3 OL;L;10.2;57
+Z4 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 mO4c`_9LdAWPY2g2I`5Z<1
+!s108 1581213310.156000
+!s107 adder.v|
+!s90 -reportprogress|300|adder.v|
+Xclass_file_deep_sv_unit
+Z5 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+INd>5cc;<j;e9JR_>UZYl>1
+VNd>5cc;<j;e9JR_>UZYl>1
+S1
+R1
+Z6 w1581213299
+8class_file_deep.sv
+Z7 Fclass_file_deep.sv
+L0 1
+R3
+r1
+31
+R4
+!s90 -reportprogress|300|class_file_deep.sv|
+!s110 1581213309
+!s100 [G^25S5CZT718R1RB2W@43
+!s108 1581213309.937000
+!s107 class_file_deep.sv|
+!i10b 1
+!i103 1
+!s85 0
+Xclass_file_sv_unit
+R5
+I2bQ8ccn<[O[3WTl9BFT1R2
+V2bQ8ccn<[O[3WTl9BFT1R2
+S1
+R1
+w1581210708
+8C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/class_file.sv
+FC:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/class_file.sv
+L0 1
+R3
+r1
+31
+o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s110 1581213248
+!s100 U0e@Rf3fQcT^>O=WVfCoC3
+!s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/class_file.sv|
+!s108 1581213248.533000
+!s107 C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/class_file.sv|
+!i10b 1
+!i103 1
+!s85 0
+Xclasses_deep_copy_sv_unit
+R5
+Vnzm^]iD<f2VJDML;mGC263
+r1
+31
+Inzm^]iD<f2VJDML;mGC263
+S1
+R1
+R6
+Z8 8classes_deep_copy.sv
+Z9 Fclasses_deep_copy.sv
+R2
+R7
+L2 1
+R3
+Z10 !s108 1581213310.009000
+Z11 !s107 class_file_deep.sv|adder.v|classes_deep_copy.sv|
+Z12 !s90 -reportprogress|300|classes_deep_copy.sv|
+R4
+!s85 0
+!s100 MLR`R^oQ2?UXC:mEK[GhG2
+!i10b 1
+!i103 1
+vclasses_tb
+R5
+DXx4 work 25 classes_deep_copy_sv_unit 0 22 nzm^]iD<f2VJDML;mGC263
+Z13 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+I4BzSoWI9QPfk`hHYmSKIC0
+S1
+R1
+w1581213128
+R8
+R9
+L0 6
+R3
+R10
+R11
+R12
+R4
+!s85 0
+!s100 e9o;?dT4bCn:?1CI?P8;i0
+!s105 classes_deep_copy_sv_unit
+!i10b 1

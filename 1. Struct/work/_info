@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:\Users\kumar\Desktop\Verilog programs\Apple_interview
+!i10d 8192
+!i10e 25
+!i10f 100
+vadder
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+I1BQEA;g3<1H2@8_=IlCe^1
+Z1 dC:\Users\kumar\Desktop\Verilog programs\System Verilog\1. Struct
+w1580967290
+8adder.v
+Fadder.v
+L0 1
+Z2 OL;L;10.2;57
+Z3 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 mO4c`_9LdAWPY2g2I`5Z<1
+!s108 1581203491.909000
+!s107 adder.v|
+!s90 -reportprogress|300|adder.v|
+vadder_tb
+DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+IN`PCE=]2k]H@1gc5dD^Tb3
+S1
+R1
+w1580970317
+8adder_tb_sv.sv
+Fadder_tb_sv.sv
+L0 4
+R2
+R3
+!s85 0
+!s100 IiPM=4Oo33ejhfa@c;Ycl1
+!s105 adder_tb_sv_sv_unit
+!s108 1581203491.799000
+!s107 adder.v|adder_tb_sv.sv|
+!s90 -reportprogress|300|adder_tb_sv.sv|
+!i10b 1

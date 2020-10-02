@@ -1,0 +1,24 @@
+{C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/adder.v} {1 {vlog -work work -vopt {C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/adder.v}
+QuestaSim-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/class_file.sv} {1 {vlog -work work -vopt -sv {C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/class_file.sv}
+QuestaSim-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+
+Top level modules:
+	--none--
+
+} {} {}} {C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/classes.sv} {0 {vlog -work work -vopt -sv {C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/classes.sv}
+QuestaSim-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module adder
+** Error: C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/classes.sv(13): near ";": syntax error, unexpected ';', expecting '('
+** Error: C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/classes.sv(14): near ";": syntax error, unexpected ';', expecting '('
+** Error: C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/classes.sv(16): (vlog-2730) Undefined variable: 'c1'.
+
+** Error: C:/Users/kumar/Desktop/Verilog programs/System Verilog/4. Inheritence/classes.sv(17): (vlog-2730) Undefined variable: 'm1'.
+
+
+} {4.0 7.0 8.0 9.0} {}}

@@ -1,0 +1,33 @@
+{C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/classes_deep_copy.sv} {2 {vlog -work work -vopt -sv {C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/classes_deep_copy.sv}
+QuestaSim-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module adder
+-- Compiling package classes_deep_copy_sv_unit
+-- Compiling module classes_tb
+** Warning: C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/classes_deep_copy.sv(13): (vlog-2240) Treating stand-alone use of function 'print' as an implicit VOID cast.
+
+** Warning: C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/classes_deep_copy.sv(19): (vlog-2240) Treating stand-alone use of function 'print' as an implicit VOID cast.
+
+** Warning: C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/classes_deep_copy.sv(29): (vlog-2240) Treating stand-alone use of function 'print' as an implicit VOID cast.
+
+** Warning: C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/classes_deep_copy.sv(33): (vlog-2240) Treating stand-alone use of function 'print' as an implicit VOID cast.
+
+** Warning: C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/classes_deep_copy.sv(39): (vlog-2240) Treating stand-alone use of function 'print' as an implicit VOID cast.
+
+
+Top level modules:
+	classes_tb
+
+} {} {}} {C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/class_file.sv} {1 {vlog -work work -vopt -sv {C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/class_file.sv}
+QuestaSim-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+
+Top level modules:
+	--none--
+
+} {} {}} {C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/adder.v} {1 {vlog -work work -vopt {C:/Users/kumar/Desktop/Verilog programs/System Verilog/3. Deep Copy_Shallow Copy/adder.v}
+QuestaSim-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}
