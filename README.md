@@ -16,7 +16,7 @@ git clone https://github.com/rksingh23/System_Verilog_Practise_Problems.git
 You can run this using .dat file provided`:
 
 ```bash
-Double Click the Do_fsm.bat file
+Double Click the Do_SV.bat file
 
 or execute the comment on command Prmpt
 
